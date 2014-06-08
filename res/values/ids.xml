@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="textViewSMS">false</item>
+    <item type="id" name="ButtonCancel">false</item>
+    <item type="id" name="buttonOk">false</item>
+    <item type="id" name="progressBar1">false</item>
+</resources>
